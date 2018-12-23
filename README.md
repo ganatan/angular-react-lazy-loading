@@ -1,10 +1,10 @@
 # angular-starter-lazy
-- Date : 06/12/2018 12:10
-- Author : chendra
+- Date : 23/12/2018 08:39
+- Author : danny ganatan
 
 # Prerequisites
-- Angular version 7.1.1
-- Angular-cli version 7.1.1
+- Angular version 7.1.4
+- Angular-cli version 7.1.4
 - Visual studio code version 1.29.1
 - Typescript version 3.1.6
 - node.js version 10.14.1 LTS (Long Term Support)
@@ -29,4 +29,5 @@
 - npm run e2e
 
 # Tutorials
+- https://www.ganatan.com/tutorials/angular-lazy-loading
 - https://www.ganatan.com/docs
