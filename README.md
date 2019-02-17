@@ -1,14 +1,14 @@
-# angular-starter-lazy
-- Date : 23/12/2018 08:39
+# angular-starter-routing
+- Date : 23/12/2018 09:21
 - Author : danny ganatan
 
 # Prerequisites
-- Angular version 7.1.4
-- Angular-cli version 7.1.4
-- Visual studio code version 1.29.1
-- Typescript version 3.1.6
-- node.js version 10.14.1 LTS (Long Term Support)
-- npm (node package manager) version 6.4.1
+- Angular version 7.2.5
+- Angular-cli version 7.3.1
+- Visual studio code version 1.31.1
+- Typescript version 3.2.4
+- node.js version 10.15.1 LTS (Long Term Support)
+- npm (node package manager) version 6.5.0
 
 # Installation
 - npm install (installing dependencies)
@@ -18,7 +18,7 @@
 - npm run start
 - http://localhost:4200
 
-# AOT Compilation 
+# Compilation 
 - npm run build
 - http-server -p 8080 -c-1 dist/angular-starter 
 - http://localhost:8080/
@@ -29,5 +29,7 @@
 - npm run e2e
 
 # Tutorials
-- https://www.ganatan.com/tutorials/angular-lazy-loading
+- https://www.ganatan.com/tutorials/lazy-loading-et-angular
+
 - https://www.ganatan.com/docs
+
