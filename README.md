@@ -71,6 +71,3 @@ What you need to run this app:
 
 ### Tutorials
 * https://www.ganatan.com/tutorials/lazy-loading-et-angular
-
-* https://www.ganatan.com/guide
-
