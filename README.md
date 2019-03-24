@@ -22,7 +22,7 @@
 git clone https://github.com/ganatan/angular-starter-lazy
 
 # change directory
-cd angular-starter
+cd angular-starter-lazy
 
 # install the repo with npm
 npm install
