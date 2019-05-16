@@ -64,9 +64,9 @@ What you need to run this app:
 * `npm run e2e`
 
 ### author
-* Updated : 13/04/2019
+* Updated : 15/04/2019
 * Author  : danny ganatan
-* Website : https://www.ganatan.com/angular
 
 ### Tutorials
-* https://www.ganatan.com/tutorials/lazy-loading-avec-angular
+* Guide    : https://www.ganatan.com/angular
+* Tutorial : https://www.ganatan.com/tutorials/lazy-loading-avec-angular
