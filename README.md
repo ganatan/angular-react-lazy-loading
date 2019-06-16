@@ -1,7 +1,7 @@
 # Angular 8 Starter - Lazy-Loading
 
 
-> An Angular starter kit featuring [Angular 8.0.0](https://angular.io), [Angular-cli 8.0.0](https://cli.angular.io/)
+> An Angular starter kit featuring [Angular 8.0.1](https://angular.io), [Angular-cli 8.0.3](https://cli.angular.io/)
 
 > it's part of a repo series designed to create a Progressive WebApp with Angular
 
@@ -38,9 +38,9 @@ in your browser go to [http://localhost:4200](http://localhost:4200)
 
 ### Prerequisites
 What you need to run this app:
-* Angular version 8.0.0
+* Angular version 8.0.3
 * Angular-cli version 8.0.1
-* Visual studio code version 1.34
+* Visual studio code version 1.35.1
 * Typescript version 3.4.5
 * node.js version 10.16.0 LTS (Long Term Support)
 * npm (node package manager) version 6.9.0
@@ -64,10 +64,11 @@ What you need to run this app:
 * `npm run e2e`
 
 ### author
-* Updated : 31/05/2019
+* Updated : 16/06/2019
 * Author  : danny ganatan
 
 ### Documentation
-* Guide    : https://www.ganatan.com/angular
-
 * Tutorial : https://www.ganatan.com/tutorials/lazy-loading-avec-angular
+
+* Tutorials : https://www.ganatan.com/tutorials
+
