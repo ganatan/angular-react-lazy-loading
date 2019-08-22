@@ -79,6 +79,6 @@ guidelines in English
 -  Tutorials Step by Step - https://www.ganatan.com/tutorials/en
 
 guidelines in French
-- Installation - https://www.ganatan.com/tutorials/lazy-loading-with-angular
+- Installation - https://www.ganatan.com/tutorials/lazy-loading-avec-angular
 - Tutoriels Etapes par étapes - https://www.ganatan.com/tutorials
 - Cours - https://www.ganatan.com/courses
