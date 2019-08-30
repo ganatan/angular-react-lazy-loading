@@ -72,10 +72,10 @@ What you need to run this app:
 ### Documentation
 
 guidelines in English
--  Installation - https://www.ganatan.com/tutorials/routing-with-angular
+-  Installation - https://www.ganatan.com/tutorials/lazy-loading-with-angular
 -  Tutorials Step by Step - https://www.ganatan.com/tutorials/en
 
 guidelines in French
-- Installation - https://www.ganatan.com/tutorials/routing-avec-angular
+- Installation - https://www.ganatan.com/tutorials/lazy-loading-avec-angular
 - Tutoriels Etapes par étapes - https://www.ganatan.com/tutorials
 - Cours - https://www.ganatan.com/courses
