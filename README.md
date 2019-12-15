@@ -1,5 +1,4 @@
 # Angular 8 Example Lazy loading
-BUG
 
 > An Angular starter kit featuring [Angular 8.2.14](https://angular.io), [Angular CLI 8.3.20](https://cli.angular.io/)
 
@@ -68,7 +67,7 @@ What you need to run this app:
 
 ### Author
 * Updated : 15/12/2019
-* Author  : danny ganatan
+* Author  : danny
 
 ### Documentation
 
