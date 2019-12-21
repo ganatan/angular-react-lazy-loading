@@ -24,7 +24,7 @@
 
 ```bash
 # clone the repo
-git clone https://github.com/ganatan/angular-example-lazy.git
+git clone https://github.com/ganatan/angular-example-lazy-loading.git
 
 # change directory
 cd angular-example-lazy
