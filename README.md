@@ -27,7 +27,7 @@
 git clone https://github.com/ganatan/angular-example-lazy-loading.git
 
 # change directory
-cd angular-example-lazy
+cd angular-example-lazy-loading
 
 # install the repo with npm
 npm install
@@ -66,7 +66,7 @@ What you need to run this app:
 * `npm run e2e`
 
 ### Author
-* Updated : 29/12/19
+* Updated : 30/12/19
 * Author  : danny
 
 ### Documentation
