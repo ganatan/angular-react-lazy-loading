@@ -1,6 +1,6 @@
 # Angular 8 Example Lazy loading
 
-> An Angular starter kit featuring [Angular 8.2.14](https://angular.io), [Angular CLI 8.3.21](https://cli.angular.io/)
+> An Angular starter kit featuring [Angular 8.2.14](https://angular.io), [Angular CLI 8.3.22](https://cli.angular.io/)
 
 > it's part of a repo series designed to create a Progressive Web App with Angular
 
@@ -66,7 +66,7 @@ What you need to run this app:
 * `npm run e2e`
 
 ### Author
-* Updated : 30/12/19
+* Updated : 11/01/2020
 * Author  : danny
 
 ### Documentation
