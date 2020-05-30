@@ -1,25 +1,17 @@
-# Angular 9 Example Lazy loading
+<p align="center">
+  <h1 align="center">Angular Example Lazy loading</h1>
+  <p align="center">
+    Example with Angular 9.1.9 & Angular CLI 9.1.7
+    <br>
+    <br>
+    <a href="https://demo.ganatan.com/angular-example-lazy-loading">
+      <img src="https://api.ganatan.com/articles/img/demo-angular-example-lazy-loading.png" alt="Demo example"/>
+    </a>
+  </p>
+</p>
 
-> An Angular starter kit featuring [Angular 9.1.7](https://angular.io), [Angular CLI 9.1.6](https://cli.angular.io/)
 
-> it's part of a repo series designed to create a Progressive Web App with Angular
-
-* [Step 1 : Example Starter](https://github.com/ganatan/angular-example-starter)
-* [Step 2 : Example Routing](https://github.com/ganatan/angular-example-routing)
-* [Step 3 : Example Lazy-loading](https://github.com/ganatan/angular-example-lazy-loading)
-* [Step 4 : Example Bootstrap](https://github.com/ganatan/angular-example-bootstrap)
-* [Step 5 : Example Modules](https://github.com/ganatan/angular-modules)
-* [Step 6 : Example Server Side Rendering](https://github.com/ganatan/angular-example-ssr)
-* [Step 7 : Example HTTP Client](https://github.com/ganatan/angular-example-httpclient)
-* [Step 8 : Example Transfer State](https://github.com/ganatan/angular-example-transferstate)
-* [Step 9 : Example PWA](https://github.com/ganatan/angular-example-pwa)
-* [Step 10 : Example SEO](https://github.com/ganatan/angular-example-seo)
-* [Step 11 : Angular 9 Application](https://github.com/ganatan/angular9-app)
-
-# Web Application Live Demo
-[https://angular.ganatan.com](https://angular.ganatan.com)
-
-## Quick start
+# Quick start
 
 ```bash
 # clone the repo
@@ -37,40 +29,21 @@ npm start
 ```
 in your browser go to [http://localhost:4200](http://localhost:4200) 
 
-### Prerequisites
-What you need to run this app:
-* Angular version 9.1.7
-* Angular CLI version 9.1.6
-* Typescript version 3.8.3
-* Node.js version 12.16.3 LTS (Long Term Support)
-* npm (node package manager) version 6.14.4
 
+# Tutorial
 
+<p align="center">
+  <h3 align="center">Angular 9 Example Lazy loading Tutorial</h3>
 
-## Getting Started
-
-
-### Installation
-* `npm install` (installing dependencies)
-* `npm outdated` (verifying dependencies)
-
-### Developpement
-* `npm run start`
-* in your browser [http://localhost:4200](http://localhost:4200) 
-
-### Production 
-* `npm run build`
-
-### Tests
-* `npm run lint`
-* `npm run test`
-* `npm run e2e`
-
-### Author
-* Updated : 17/05/2020
-* Author  : danny
-
-### Documentation
+  <p align="center">
+    Step-by-step Tutorials
+    <br>
+    <br>
+    <a href="https://www.ganatan.com/tutorials/lazy-loading-with-angular">
+      <img src="https://api.ganatan.com/articles/img/tutorial-lazy-loading-avec-angular.png" alt="Demo example"/>
+    </a>
+  </p>
+</p>
 
 English Tutorials
 - Installation - https://www.ganatan.com/tutorials/lazy-loading-with-angular
@@ -79,3 +52,27 @@ English Tutorials
 Tutoriels en français
 - Installation - https://www.ganatan.com/tutorials/lazy-loading-avec-angular
 - Tutoriels Etape par étape - https://www.ganatan.com/tutorials
+
+
+# Getting Started
+
+
+## Installation
+* `npm install` (installing dependencies)
+* `npm outdated` (verifying dependencies)
+
+## Development
+* `npm run start`
+* in your browser go to [http://localhost:4200](http://localhost:4200) 
+
+## Production 
+* `npm run build`
+
+## Tests
+* `npm run lint`
+* `npm run test`
+* `npm run e2e`
+
+# Author
+* Updated : 29/05/2020
+* Author  : danny
