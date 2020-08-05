@@ -1,7 +1,7 @@
 <p align="center">
   <h1 align="center">Angular Example Lazy loading</h1>
   <p align="center">
-    Example with Angular 10.0.7 & Angular CLI 10.0.5
+    Example with Angular 10.0.8 & Angular CLI 10.0.5
     <br>
     <br>
     <a href="https://demo.ganatan.com/angular-example-lazy-loading">
@@ -74,5 +74,5 @@ Tutoriels en français
 * `npm run e2e`
 
 # Author
-* Updated : 04/08/2020
+* Updated : 06/08/2020
 * Author  : danny
