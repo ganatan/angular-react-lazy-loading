@@ -1,7 +1,7 @@
 <p align="center">
   <h1 align="center">Angular Example Lazy loading</h1>
   <p align="center">
-    Example with Angular 10.1.4 & Angular CLI 10.1.4
+    Example with Angular 10.2.0 & Angular CLI 10.2.0
     <br>
     <br>
     <a href="https://demo.ganatan.com/angular-example-lazy-loading">
