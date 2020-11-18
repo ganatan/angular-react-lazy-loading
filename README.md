@@ -14,8 +14,16 @@
 # Quick start
 
 ```bash
-# clone the repo
+# select a repo
+# download the example or clone the repo from github
 git clone https://github.com/ganatan/angular-example-lazy-loading.git
+
+# download the example or clone the repo from gitlab
+git clone https://gitlab.com/ganatan/angular-example-lazy-loading.git
+
+# download the example or clone the repo from bitbucket
+git clone https://bitbucket.org/ganatan/angular-example-lazy-loading.git
+
 
 # change directory
 cd angular-example-lazy-loading
