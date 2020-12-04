@@ -2,11 +2,6 @@
   <h1 align="center">Angular Example Lazy loading</h1>
   <p align="center">
     Example with Angular 11.0.3 & Angular CLI 11.0.3
-    <br>
-    <br>
-    <a href="https://demo.ganatan.com/angular-example-lazy-loading">
-      <img src="https://api.ganatan.com/articles/img/demo-angular-example-lazy-loading.png" alt="Demo example"/>
-    </a>
   </p>
 </p>
 
