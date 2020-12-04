@@ -75,9 +75,10 @@ in your browser go to [http://localhost:4200](http://localhost:4200)
 ## Documentation
 
 English Tutorials
-- Installation - https://www.ganatan.com/tutorials/routing-with-angular
-- step-by-step Tutorials - https://www.ganatan.com/tutorials/en
+- Installation - https://www.ganatan.com/tutorials/lazy-loading-with-angular
+- Tutorials Step by Step - https://www.ganatan.com/tutorials/en
 
 Tutoriels en français
-- Installation - https://www.ganatan.com/tutorials/routing-avec-angular
+- Installation - https://www.ganatan.com/tutorials/lazy-loading-avec-angular
 - Tutoriels Etape par étape - https://www.ganatan.com/tutorials
+
