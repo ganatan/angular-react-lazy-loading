@@ -1,7 +1,7 @@
 <p align="center">
   <h1 align="center">Angular Example Lazy loading</h1>
   <p align="center">
-    Example with Angular 11.0.2 & Angular CLI 11.0.2
+    Example with Angular 11.0.3 & Angular CLI 11.0.3
     <br>
     <br>
     <a href="https://demo.ganatan.com/angular-example-lazy-loading">
@@ -77,11 +77,12 @@ in your browser go to [http://localhost:4200](http://localhost:4200)
 * Author  : danny
 
 
+## Documentation
+
 English Tutorials
-- Installation - https://www.ganatan.com/tutorials/lazy-loading-with-angular
-- Tutorials Step by Step - https://www.ganatan.com/tutorials/en
+- Installation - https://www.ganatan.com/tutorials/routing-with-angular
+- step-by-step Tutorials - https://www.ganatan.com/tutorials/en
 
 Tutoriels en français
-- Installation - https://www.ganatan.com/tutorials/lazy-loading-avec-angular
+- Installation - https://www.ganatan.com/tutorials/routing-avec-angular
 - Tutoriels Etape par étape - https://www.ganatan.com/tutorials
-
