@@ -1,7 +1,7 @@
 <p align="center">
   <h1 align="center">Angular Example Lazy loading</h1>
   <p align="center">
-    Example with Angular 11.0.10 & Angular CLI 11.0.9
+    Example with Angular 11.2.11 & Angular CLI 11.2.10
   </p>
 </p>
 
