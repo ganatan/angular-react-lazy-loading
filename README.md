@@ -11,7 +11,7 @@
 it's part of a repo series designed to create a **Web Application with Angular 13**
 
 
-* Featuring [**Angular 13.2.1**](https://github.com/angular/angular/releases) & [**Angular CLI 13.2.2**](https://github.com/angular/angular-cli/releases/)
+* Featuring [**Angular 13.2.3**](https://github.com/angular/angular/releases) & [**Angular CLI 13.2.4**](https://github.com/angular/angular-cli/releases/)
 
 
 * See the [**Live demo**](#live-demo), Test the repo with [**Quick start**](#quick-start) and for more information Read the step by step [**Tutorial**](#tutorial) or read the [**Getting started**](#getting-started)
@@ -41,9 +41,6 @@ git clone https://github.com/ganatan/angular-lazy-loading.git
 
 # download the example or clone the repo from gitlab
 git clone https://gitlab.com/ganatan/angular-lazy-loading.git
-
-# download the example or clone the repo from bitbucket
-git clone https://bitbucket.org/ganatan/angular-lazy-loading.git
 
 # change directory
 cd angular-lazy-loading
