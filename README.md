@@ -1,4 +1,4 @@
-# Angular 13 Example Lazy Loading
+# Angular 13 & React 18 Examples Lazy Loading
 
 <table>
 <tr>
@@ -11,16 +11,23 @@
 it's part of a repo series designed to create a **Web Application with Angular 13**
 
 
-* Featuring [**Angular 13.3.8**](https://github.com/angular/angular/releases) & [**Angular CLI 13.3.5**](https://github.com/angular/angular-cli/releases/)
+* Featuring [**Angular 13.3.10**](https://github.com/angular/angular/releases) & [**Angular CLI 13.3.7**](https://github.com/angular/angular-cli/releases/)
 
 
-* See the [**Live demo**](#live-demo), Test the repo with [**Quick start**](#quick-start) and for more information Read the step by step [**Tutorial**](#tutorial) or read the [**Getting started**](#getting-started)
+* See the [**Live demo**](#angular-live-demo), Test the repo with [**Quick start**](#angular-quick-start) and for more information Read the step by step [**Tutorial**](#angular-tutorial) or read the [**Getting started**](#angular-getting-started)
+
+
+it's part of a repo series designed to create a **Web Application with React 18**
+
+
+* Featuring [**React 18.1.0**](https://github.com/facebook/react/releases) & [**Create-react-app 5.0.1**](https://github.com/facebook/create-react-app/releases)
+
 
 </td>
 </tr>
 </table>
 
-# [Live Demo](#live-demo)
+# [Angular Live Demo](#angular-live-demo)
 Here is a working live demo :  https://angular.ganatan.com
 
 <p align="center">
@@ -32,18 +39,20 @@ Here is a working live demo :  https://angular.ganatan.com
   </p>
 </p>
 
-# [Quick start](#quick-start)
+
+# [Angular Quick start](#angular-quick-start)
 
 ```bash
 # choose a repo
 # download the example or clone the repo from github
-git clone https://github.com/ganatan/angular-lazy-loading.git
+git clone https://github.com/ganatan/angular-react-lazy-loading.git
 
 # download the example or clone the repo from gitlab
-git clone https://gitlab.com/ganatan/angular-lazy-loading.git
+git clone https://gitlab.com/ganatan/angular-react-lazy-loading.git
 
 # change directory
-cd angular-lazy-loading
+cd angular-react-lazy-loading
+cd angular
 
 # install the repo with npm
 npm install
@@ -53,6 +62,31 @@ npm start
 
 ```
 in your browser go to [http://localhost:4200](http://localhost:4200) 
+
+
+# [React Quick start](#react-quick-start)
+
+```bash
+# choose a repo
+# download the example or clone the repo from github
+git clone https://github.com/ganatan/angular-react-lazy-loading.git
+
+# download the example or clone the repo from gitlab
+git clone https://gitlab.com/ganatan/angular-react-lazy-loading.git
+
+# change directory
+cd angular-react-lazy-loading
+cd react
+
+# install the repo with npm
+npm install
+
+# start the server
+npm start
+
+```
+in your browser go to [http://localhost:3000](http://localhost:3000) 
+
 
 
 # [Tutorial](#quick-start)
@@ -65,7 +99,7 @@ Here is a step by step Tutorial :  https://www.ganatan.com/tutorials/lazy-loadin
   </a>
 </p>
 
-# [Getting started](#getting-started)
+# [Angular Getting started](#angular-getting-started)
 
 
 ## Installation
@@ -75,6 +109,25 @@ Here is a step by step Tutorial :  https://www.ganatan.com/tutorials/lazy-loadin
 ## Development
 * `npm run start`
 * in your browser go to [http://localhost:4200](http://localhost:4200) 
+
+## Production 
+* `npm run build`
+
+## Tests
+* `npm run test`
+
+
+
+# [React Getting started](#react-getting-started)
+
+
+## Installation
+* `npm install` (installing dependencies)
+* `npm outdated` (verifying dependencies)
+
+## Development
+* `npm run start`
+* in your browser go to [http://localhost:3000](http://localhost:3000) 
 
 ## Production 
 * `npm run build`
