@@ -1,11 +1,11 @@
 {
   "name": "react-lazy-loading",
-  "version": "18.1.0",
+  "version": "18.2.0",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "5.16.4",
     "@testing-library/react": "13.3.0",
-    "@testing-library/user-event": "14.2.0",
+    "@testing-library/user-event": "14.2.1",
     "react": "18.2.0",
     "react-dom": "18.2.0",
     "react-router-dom": "6.3.0",
