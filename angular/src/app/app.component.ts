@@ -7,6 +7,6 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'angular-lazy-loading';
-  footerUrl = 'https://www.ganatan.com/';
+  footerUrl = 'https://www.ganatan.com';
   footerLink = 'www.ganatan.com';
 }
