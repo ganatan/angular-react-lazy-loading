@@ -1,4 +1,4 @@
-# Angular 14 & React 18 Examples Lazy Loading
+# Angular 16 & React 18 Examples Lazy Loading
 
 <table>
 <tr>
@@ -10,7 +10,7 @@
 
 it's part of a repo series designed
 
-to create a **Web Application with Angular 14**
+to create a **Web Application with Angular 16**
 
 
 * Featuring [**Angular 16.0.0**](https://github.com/angular/angular/releases) & [**Angular CLI 16.0.0.5**](https://github.com/angular/angular-cli/releases/)
